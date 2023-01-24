@@ -1,4 +1,4 @@
-#Dice Game
+Dice Game
 
 Summary: This project is a fun game that was created for practice to get a deeper understanding of Javascript. When the page is refreshed the dice will generate a random number between 1 and 6. The screen will display a player winning depending on which dice is higher, and if they're the same it will show a tie.
 
